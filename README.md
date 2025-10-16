@@ -163,3 +163,6 @@ minikube stop
 - [Kubernetes.io Hello World guide](https://kubernetes.io/blog/2019/07/23/get-started-with-kubernetes-using-python/)
 - [Kubernetes service access docs](https://kubernetes.io/docs/tasks/access-application-cluster/service-access-application-cluster/)
 - [Azure Kubernetes deployment strategies](https://azure.microsoft.com/en-us/overview/kubernetes-deployment-strategy/)
+
+
+
